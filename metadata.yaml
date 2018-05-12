@@ -39,6 +39,8 @@ creator:
     gutenberg_agent_id: '6673'
     url: http://www.gutenberg.org/2009/agents/6673
 description: 'Translation of: Uncle Tom''s Cabin'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16392#Set--Tuomon-tupa
 gutenberg_issued: '2005-07-30'
 gutenberg_type: Text
 identifiers:
