@@ -1,0 +1,63 @@
+_repo: Set--Tuomon-tupa_16392
+_version: 0.1.0
+alternative_title: Uncle Tom's cabin. Finnish
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Aatto S.
+    - Suppanen, Adolf
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+  editor:
+    agent_name: Fogowitz, A. H.
+    aliases:
+    - Fogowitz, Andra Heinrich
+    - Fogowitz, Andrea Heinrich
+    - Fogowitz, Andrä Heinrich
+    - Herold, Heinrich
+    birthdate: 1858
+    deathdate: 1909
+    gutenberg_agent_id: '6673'
+    url: http://www.gutenberg.org/2009/agents/6673
+description: 'Translation of: Uncle Tom''s Cabin'
+gutenberg_issued: '2005-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16392'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'Uncle Tom (Fictitious character) -- Fiction'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Plantation life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Southern States -- Fiction'
+- !lcsh 'Fugitive slaves -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Slaves -- Fiction'
+title: Setä Tuomon tupa
+url: http://www.gutenberg.org/ebooks/16392
